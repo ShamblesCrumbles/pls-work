@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cat {
+
+    width: 150px;
+}
+
+.card {
+    margin: auto;
+    width: 400px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:  #2b2839;
+    background-color: #ddebf8;
+    border-bottom: 5px #d8cefe solid;
+}
+
